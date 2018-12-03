@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage Title="Login MCF" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="HelloWorld.Login">
+    <ContentPage.Content>
+        <StackLayout>
+         <StackLayout Padding="0,0,0,50" >
+             <Image Source="http://via.placeholder.com/1512x512/FF0000/FFFFFF?text=MCF+Mobile" />
+            <Label Text="" x:Name="lbl_notification" />
+        </StackLayout>
+        <!-- Place new controls here -->
+        <!-- Label Text="Hello World"  x:Name="label" /-->
+        <!-- Slider ValueChanged="Handle_ValueChanged" /-->
+        <!-- Label x:Name="lbl_login" HorizontalOptions="CenterAndExpand" VerticalTextAlignment="Center" HeightRequest="50" Text="Login" / -->
+        <Entry x:Name="entry_login" Keyboard="Text" Placeholder="Username" HorizontalOptions="FillAndExpand" />
+        <Entry x:Name="entry_password" Placeholder="Password" IsPassword="true" Completed="Handle_Completed" HorizontalOptions="FillAndExpand"  />
+        <Button x:Name="btn_login"  Text="Login" Clicked="Handle_Clicked_Login" />
+    </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

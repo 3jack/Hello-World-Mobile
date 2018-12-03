@@ -1,0 +1,15 @@
+/Users/jtolson/Projects/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.deps.json
+/Users/jtolson/Projects/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.dll
+/Users/jtolson/Projects/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.pdb
+/Users/jtolson/Projects/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jtolson/Projects/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/Login.xaml.g.cs
+/Users/jtolson/Projects/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/jtolson/Projects/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/jtolson/Projects/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/jtolson/Projects/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.AssemblyInfo.cs
+/Users/jtolson/Projects/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jtolson/Projects/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.dll
+/Users/jtolson/Projects/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.pdb
+/Users/jtolson/Projects/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.csprojAssemblyReference.cache
+/Users/jtolson/Projects/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/MedicalForm.xaml.g.cs
+/Users/jtolson/Projects/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/MedicalInfo.xaml.g.cs
